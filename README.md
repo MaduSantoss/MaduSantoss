@@ -29,6 +29,6 @@
 </div><br>
 
 <div>
-  https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
+ ![MaduSantoss's Stats](https://github-readme-stats.vercel.app/api?username=MaduSantoss&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 </div>
 
