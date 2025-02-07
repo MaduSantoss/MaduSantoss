@@ -30,6 +30,6 @@
 
 ### :zap: GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_NOME_DE_USUARIO&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaduSantoss&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_NOME_DE_USUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaduSantoss&layout=compact&theme=tokyonight)
