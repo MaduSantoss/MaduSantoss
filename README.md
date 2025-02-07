@@ -28,3 +28,7 @@
   <img align="center" alt="mysql" height="30" width="78" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div><br>
 
+<div>
+  https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
+</div>
+
