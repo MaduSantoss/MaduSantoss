@@ -28,8 +28,6 @@
   <img align="center" alt="mysql" height="30" width="78" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div><br>
 
-### :zap: GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaduSantoss&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaduSantoss&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaduSantoss&layout=compact&theme=tokyonight)
