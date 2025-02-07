@@ -27,8 +27,3 @@
 ## Banco de Dados
   <img align="center" alt="mysql" height="30" width="78" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div><br>
-
-<div>
- ![MaduSantoss's Stats](https://github-readme-stats.vercel.app/api?username=MaduSantoss&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-</div>
-
