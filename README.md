@@ -13,8 +13,7 @@
 
 ## Competências
 <img align="center" alt="Python" height="30" width="90" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-</div>
-<img align="center" alt="ReactJS" height="30" width="90" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+</div><img align="center" alt="ReactJS" height="30" width="90" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
 
 
