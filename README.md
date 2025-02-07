@@ -29,5 +29,5 @@
 </div><br>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaduSantoss&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaduSantoss&show_icons=true&theme=rose_pine)
 
