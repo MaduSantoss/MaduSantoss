@@ -1,35 +1,58 @@
-## Olá!Me chamo Maria Eduarda.
+# Olá, eu sou a Maria Eduarda Santos Silva! 👋
 
-● 🌱 Estudando tecnologias Front-end e Back-end.
+Desenvolvedora de software e em transição de carreira para a área de Dados. Minha expectativa é unir a construção de sistemas com a análise de dados para gerar insights.
 
-● 💻 Buscando oportunidades na área da tecnologia.
+- 🗺️  Moro em Aracaju/SE, Brasil.
+- 📚  Cursando Análise e Desenvolvimento de Sistemas na Uninassau,4 período.
+- 🎯  Atualmente, meu foco de estudo está direcionado ao ecossistema de Dados com Python, aprofundando meus conhecimentos em bibliotecas como Pandas, NumPy e Scikit-learn.
+- 📫  Sinta-se à vontade para se conectar comigo!
 
-● 🗺️ Aracaju/SE
+---
 
-● 📚 Cursando ADS na Uninassau.<br>
+## 🔗 Conecte-se Comigo
+<div style="display:inline_block">
+    <a href="https://www.linkedin.com/in/maria-eduarda-santos-silva-868298300" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="mailto:madusantoss1510@gmail.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF&labelColor=000" target="_blank"></a>
+</div>
 
+---
 
-  <a href="https://www.linkedin.com/in/maria-eduarda-santos-silva-868298300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>
+## 💻 Tecnologias e Ferramentas
 
-## Competências
-<div style ="display:inline)_block> <br>
-  <img align="center" alt="html" height="30" width="90" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="CSS" height="30" width="90" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Node" height="30" width="90" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img align="center" alt="ReactJS" height="30" width="90" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center" alt="Java" height="30" width="90" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-   <img align="center" alt="Python" height="30" width="90" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img align ="center" alt="Html" height="30" width="90" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
- <img align ="center" alt="excel" height="30" width="90" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+### 📊 Análise de Dados 
+<div style="display:inline_block">
+    <img align="center" alt="Python" height="30" width="90" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+    <img align="center" alt="Pandas" height="30" width="90" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+    <img align="center" alt="NumPy" height="30" width="90" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+    <img align="center" alt="Scikit-learn" height="30" width="90" src="https://img.shields.io/badge/scikit--learn-F7931A?style=for-the-badge&logo=scikit-learn&logoColor=white">
+</div>
 
-</div><br>
-  
+### ⚙️ Back-End & Bancos de Dados
+<div style="display:inline_block">
+    <img align="center" alt="Node" height="30" width="90" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+    <img align="center" alt="JavaScript" height="30" width="90" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img align="center" alt="MySQL" height="30" width="78" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img align="center" alt="MongoDB" height="30" width="90" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+    <img align="center" alt="SQL Server" height="30" width="90" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+</div>
 
+### 🎨 Front-End
+<div style="display:inline_block">
+    <img align="center" alt="HTML" height="30" width="90" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+    <img align="center" alt="CSS" height="30" width="90" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+    <img align="center" alt="Tailwind" height="30" width="90" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+</div>
 
-## Banco de Dados
-  <img align="center" alt="mysql" height="30" width="78" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-</div><br>
+### 🛠️ Ferramentas
+<div style="display:inline_block">
+    <img align="center" alt="Git" height="30" width="90" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+    <img align="center" alt="Figma" height="30" width="90" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+    <img align="center" alt="Vscode" height="30" width="90" src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+    <img align="center" alt="Docker" height="30" width="90" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+</div>
 
+---
+
+## ⭐ GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaduSantoss&show_icons=true&theme=rose_pine)
-
