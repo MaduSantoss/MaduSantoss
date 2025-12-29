@@ -53,4 +53,7 @@ Desenvolvedora de software com foco em criar aplicações completas, unindo boas
     <img align="center" alt="Vscode" height="30" width="90" src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </div>
 
+
+
+![snake gif](https://github.com/MaduSantoss/MaduSantoss/blob/output/github-snake-dark.svg)
 ---
