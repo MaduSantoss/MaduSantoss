@@ -14,7 +14,7 @@ Desenvolvedora de software com foco em criar aplicações completas, unindo boas
 <div style="display:inline_block">
     <a href="https://www.linkedin.com/in/maria-eduarda-santos-silva-868298300" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="mailto:madusantoss1510@gmail.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF&labelColor=000" target="_blank"></a>
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank"></a>
+    <a href="https://portfolio-madusantoss.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank"></a>
 </div>
 
 ---
