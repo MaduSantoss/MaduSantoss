@@ -1,13 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Maria%20Eduarda&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Dev%20Full%20Stack%20%26%20Dados&descAlignY=55&descAlign=50" width="100%"/>
-</div>
-
-<div align="center">
 
   ## Olá, eu sou a Maria Eduarda Santos Silva! 👋
 
   > Desenvolvedora de Software e Estudante de Análise e Desenvolvimento de Sistemas.
-  > Foco em Python, JavaScript e Soluções de Dados.
 
   <br>
 
