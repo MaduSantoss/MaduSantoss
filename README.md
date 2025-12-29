@@ -1,58 +1,101 @@
-# Olá, eu sou a Maria Eduarda Santos Silva! 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Maria%20Eduarda&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Developer%20%26%20Data%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
+</div>
 
-Desenvolvedora de software e em transição de carreira para a área de Dados. Minha expectativa é unir a construção de sistemas com a análise de dados para gerar insights.
+<div align="center">
+  
+  ## Olá, eu sou a Maria Eduarda Santos Silva! 👋
+  
+  <p>
+    <b>Desenvolvedora de Software & Estudante de ADS</b><br>
+    <i>Focada em criar aplicações completas unindo Front-end, Back-end e Análise de Dados.</i>
+  </p>
 
-- 🗺️  Moro em Aracaju/SE, Brasil.
-- 📚  Cursando Análise e Desenvolvimento de Sistemas na Uninassau,4 período.
-- 🎯  Atualmente, meu foco de estudo está direcionado ao ecossistema de Dados com Python, aprofundando meus conhecimentos em bibliotecas como Pandas, NumPy e Scikit-learn.
-- 📫  Sinta-se à vontade para se conectar comigo!
+  <a href="https://www.linkedin.com/in/maria-eduarda-santos-silva-868298300" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:madusantoss1510@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://github.com/MaduSantoss">
+      <img src="https://img.shields.io/badge/-Portfólio-%23181717?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+  </a>
+
+</div>
+
+<br>
+
+### 👩‍💻 Sobre Mim
+
+- 🎓 **Formação:** Cursando **Análise e Desenvolvimento de Sistemas** na Uninassau (Previsão: 2026).
+- 💼 **Atualmente:** Estagiária no setor de Desenvolvimento da **Prefeitura Municipal de Aracaju**, trabalhando com manutenção de sistemas (IntegrAju, ResolveAe) e automação.
+- 🎯 **Foco:** Desenvolvimento com **Python** e **JavaScript**, com interesse crescente em **Ciência de Dados** e **APIs**.
+- 🌍 **Localização:** Aracaju/SE, Brasil.
 
 ---
 
-## 🔗 Conecte-se Comigo
-<div style="display:inline_block">
-    <a href="https://www.linkedin.com/in/maria-eduarda-santos-silva-868298300" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="mailto:madusantoss1510@gmail.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF&labelColor=000" target="_blank"></a>
+### 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+
+  **Linguagens**<br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  
+  <br><br>
+
+  **Front-End**<br>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+
+  <br><br>
+
+  **Back-End & Dados**<br>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+
+  <br><br>
+
+  **Ferramentas & DevOps**<br>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </div>
 
 ---
 
-## 💻 Tecnologias e Ferramentas
+### 🚀 Projetos em Destaque
 
-### 📊 Análise de Dados 
-<div style="display:inline_block">
-    <img align="center" alt="Python" height="30" width="90" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-    <img align="center" alt="Pandas" height="30" width="90" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-    <img align="center" alt="NumPy" height="30" width="90" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-    <img align="center" alt="Scikit-learn" height="30" width="90" src="https://img.shields.io/badge/scikit--learn-F7931A?style=for-the-badge&logo=scikit-learn&logoColor=white">
-</div>
-
-### ⚙️ Back-End & Bancos de Dados
-<div style="display:inline_block">
-    <img align="center" alt="Node" height="30" width="90" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-    <img align="center" alt="JavaScript" height="30" width="90" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align="center" alt="MySQL" height="30" width="78" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <img align="center" alt="MongoDB" height="30" width="90" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-    <img align="center" alt="SQL Server" height="30" width="90" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
-</div>
-
-### 🎨 Front-End
-<div style="display:inline_block">
-    <img align="center" alt="HTML" height="30" width="90" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="CSS" height="30" width="90" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="Tailwind" height="30" width="90" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-</div>
-
-### 🛠️ Ferramentas
-<div style="display:inline_block">
-    <img align="center" alt="Git" height="30" width="90" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-    <img align="center" alt="Figma" height="30" width="90" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-    <img align="center" alt="Vscode" height="30" width="90" src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-    <img align="center" alt="Docker" height="30" width="90" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-</div>
+| Projeto | Descrição | Tecnologias |
+| :--- | :--- | :--- |
+| **Consultor de Clima** | API de consulta meteorológica em tempo real via OpenWeatherMap com tratamento de dados JSON. | Python, Requests, Dotenv |
+| **Simulação Bancária** | Sistema financeiro modular focado em segurança de transações e encapsulamento. | Python, POO |
+| **Portal ManCare** | Portal web informativo focado na saúde masculina com arquitetura da informação e design responsivo. | HTML5, CSS3, Web Design |
+| **Task Manager (CLI)** | Gerenciador de tarefas via linha de comando com validação rigorosa de dados. | Python, Estrutura de Dados |
 
 ---
 
-## ⭐ GitHub Stats
+### 📚 Certificações & Educação Contínua
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaduSantoss&show_icons=true&theme=rose_pine)
+* **Google Data Analytics Certificate** - Google (2025)
+* **Fundamentos de Python para Análise de Dados** - Data Science Academy (2025)
+* **Foundational C# Certification** - Microsoft & FreeCodeCamp (2025)
+* **Trilha Digital Coders 24: Front-End** - Ada Tech (2024)
+* **Imersão Dev Back-End (Node.js)** - Alura (2024)
+
+---
+
+### ⭐ GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/MaduSantoss">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaduSantoss&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaduSantoss&layout=compact&theme=rose_pine"/>
+  </a>
+</div>
