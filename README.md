@@ -2,7 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=4000&pause=1000&color=8A2BE2&center=false&vCenter=true&width=500&lines=Ol%C3%A1%2C+sou+Maria+Eduarda" alt="Typing SVG" />
 </a>
 
-Desenvolvedora de software residente em Aracaju/SE, focada em criar aplicações completas unindo boas práticas de frontend e backend. Atualmente, atuo como estagiária em Desenvolvimento na **Prefeitura de Aracaju**, trazendo experiência anterior como Suporte Técnico na **Climedi**. Sou graduanda em Análise e Desenvolvimento de Sistemas na Uninassau (com previsão para 2026) e dedico meus estudos ao aprofundamento em desenvolvimento Web e Back-End.
+Desenvolvedora Full Stack com sólida base em Python, Node.js e React. Experiência prática no setor
+público e de saúde, atuando na resolução de problemas complexos através da manutenção de sistemas
+críticos e automação de processos. Especialista em integrar soluções de Inteligência Artificial para
+acelerar o desenvolvimento e otimizar a eficiência administrativa. Foco em arquitetura limpa,
+escalabilidade e entrega de valor real ao usuário.
 
 
 ## 🔗 Conecte-se Comigo
