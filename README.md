@@ -2,11 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=4000&pause=1000&color=8A2BE2&center=false&vCenter=true&width=500&lines=Ol%C3%A1%2C+sou+Maria+Eduarda" alt="Typing SVG" />
 </a>
 
-Desenvolvedora Full Stack com sólida base em Python, Node.js e React. Experiência prática no setor
-público e de saúde, atuando na resolução de problemas complexos através da manutenção de sistemas
-críticos e automação de processos. Especialista em integrar soluções de Inteligência Artificial para
-acelerar o desenvolvimento e otimizar a eficiência administrativa. Foco em arquitetura limpa,
-escalabilidade e entrega de valor real ao usuário.
+Olá! Sou uma Desenvolvedora Full Stack com sólida base em Python, Node.js e React, e uma forte paixão pela construção de arquiteturas limpas e escaláveis.
+
+Tenho experiência prática nos setores público e de saúde, atuando na resolução de problemas complexos por meio da manutenção de sistemas críticos, criação de APIs eficientes e automação de processos de dados. Sou especialista em integrar soluções de Inteligência Artificial para acelerar fluxos de desenvolvimento e otimizar a eficiência administrativa.
+
+Meu foco principal é sempre a entrega de valor real ao usuário, garantindo código de qualidade e infraestrutura confiável.
 
 
 ## 🔗 Conecte-se Comigo
