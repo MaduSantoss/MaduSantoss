@@ -1,21 +1,19 @@
 <!--
   GitHub Profile — Maria Eduarda (MaduSantoss)
-  Tema: Soft Pink ✿ | rosa claro + rosé
+  Tema: Soft Pink Dark ✿ | minimalista, rosa suave sobre fundo escuro
 -->
 
 <div align="center">
 
-  <img src="./banner.svg" width="100%" alt="Banner rosa: Maria Eduarda — Back-End Developer, C# e .NET" />
+  <img src="./banner.svg" width="100%" alt="Maria Eduarda — Back-End Developer, C# e .NET" />
+
+  <br />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=900&color=E75480&center=true&vCenter=true&width=560&lines=Ol%C3%A1%2C+sou+a+Maria+Eduarda+%E2%9C%BF;APIs+%2B+integra%C3%A7%C3%B5es+com+C%23+e+.NET;Clean+Code+%E2%80%A2+SOLID+%E2%80%A2+Design+Patterns;Rumo+a+arquitetura%2C+cloud+e+escala+%E2%98%81%EF%B8%8F" alt="Olá, sou a Maria Eduarda" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=3500&pause=1000&color=F48FB1&center=true&vCenter=true&width=520&lines=Ol%C3%A1%2C+sou+a+Maria+Eduarda+%E2%9C%BF;APIs+e+integra%C3%A7%C3%B5es+com+C%23+e+.NET;Rumo+a+arquitetura%2C+cloud+e+escala" alt="Olá, sou a Maria Eduarda" />
   </a>
 
-  <p><samp>back-end · arquitetura de APIs · performance · observabilidade · cultura colaborativa</samp></p>
-
 </div>
-
----
 
 ## ✿ Sobre mim
 
@@ -25,76 +23,37 @@ Minha trajetória passa por **Infraestrutura, Back-End, Front-End e Liderança T
 
 Meu próximo passo é me aprofundar em **arquitetura, cloud e sistemas escaláveis, resilientes e sustentáveis**.
 
-## 🌸 Destaques
+## ✿ Destaques
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4>👩‍💻 Liderança Técnica</h4>
-      Front-End Team Lead com React/TypeScript, conduzindo mentorias e Code Reviews.
-    </td>
-    <td width="33%" valign="top">
-      <h4>📉 Impacto Real</h4>
-      Otimização de sistemas e processos com <b>redução de 40%</b> no tempo de processamento de fluxos operacionais.
-    </td>
-    <td width="33%" valign="top">
-      <h4>🧩 Engenharia</h4>
-      Clean Code, SOLID, Design Patterns e Arquitetura de APIs.
-    </td>
-  </tr>
-</table>
+<img src="./destaques.svg" width="100%" alt="Liderança: Front-End Team Lead com React e TypeScript, mentorias e Code Reviews. Impacto: redução de 40% no tempo de processamento de fluxos operacionais. Engenharia: Clean Code, SOLID, Design Patterns e Arquitetura de APIs." />
 
-## 💗 Tecnologias
-
-**⚙️ Back-End**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,py&theme=light" alt="C#, .NET, PHP, Laravel e Python" />
-</p>
-
-**🗄️ Bancos de Dados**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=light" alt="PostgreSQL e MySQL" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/SQL_Server-FFF0F5?style=for-the-badge&logo=microsoftsqlserver&logoColor=D63384" height="46" alt="SQL Server" />
-</p>
-
-**☁️ DevOps & Cloud**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,git,github&theme=light" alt="Docker, AWS, Git e GitHub" />
-</p>
-
-**🎨 Front-End**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js&theme=light" alt="React, Next.js, TypeScript e JavaScript" />
-</p>
-
-## 📊 Atividade
+## ✿ Tecnologias
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaduSantoss&show_icons=true&include_all_commits=true&hide_border=false&bg_color=FFF5F8&title_color=D63384&text_color=6B4A57&icon_color=F06292&border_color=F8BBD0&border_radius=12" height="180" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaduSantoss&layout=compact&langs_count=8&hide_border=false&bg_color=FFF5F8&title_color=D63384&text_color=6B4A57&border_color=F8BBD0&border_radius=12" height="180" alt="Linguagens mais usadas" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,py,postgres,mysql,docker,aws,git,github,react,nextjs,ts,js&theme=dark&perline=15" alt="C#, .NET, PHP, Laravel, Python, PostgreSQL, MySQL, Docker, AWS, Git, GitHub, React, Next.js, TypeScript e JavaScript" />
+  <br />
+  <sub><samp>back-end · dados (+ SQL Server) · devops & cloud · front-end</samp></sub>
 </div>
 
+## ✿ Atividade
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MaduSantoss&background=FFF5F8&border=F8BBD0&ring=F06292&fire=D63384&currStreakNum=6B4A57&sideNums=6B4A57&currStreakLabel=D63384&sideLabels=D63384&dates=A0788A&stroke=F8BBD0" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MaduSantoss&show_icons=true&include_all_commits=true&hide_border=false&bg_color=1A1420&title_color=F48FB1&text_color=D9C2CC&icon_color=F48FB1&ring_color=F48FB1&border_color=3A2833&border_radius=14" height="170" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaduSantoss&layout=compact&langs_count=8&hide_border=false&bg_color=1A1420&title_color=F48FB1&text_color=D9C2CC&border_color=3A2833&border_radius=14" height="170" alt="Linguagens mais usadas" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=MaduSantoss&background=1A1420&border=3A2833&ring=F48FB1&fire=F48FB1&currStreakNum=F8C8D8&sideNums=F8C8D8&currStreakLabel=F48FB1&sideLabels=F48FB1&dates=9C8592&stroke=3A2833&border_radius=14" alt="GitHub Streak" />
 </div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/MaduSantoss/MaduSantoss/output/github-snake-pink.svg" width="100%" alt="Cobrinha rosa comendo as contribuições" />
 </div>
 
-## 💌 Vamos conversar?
+## ✿ Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/maria-eduarda-santos-silva-868298300" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-Conectar-F8BBD0?style=for-the-badge&labelColor=FFF0F5&logo=linkedin&logoColor=D63384" height="34" alt="LinkedIn" /></a>&emsp;
-  <a href="mailto:madusantoss1510@gmail.com" title="E-mail"><img src="https://img.shields.io/badge/E--mail-Enviar-F8BBD0?style=for-the-badge&labelColor=FFF0F5&logo=gmail&logoColor=D63384" height="34" alt="E-mail" /></a>&emsp;
-  <a href="https://portfolio-madusantoss.vercel.app/" title="Portfólio"><img src="https://img.shields.io/badge/Portf%C3%B3lio-Visitar-F8BBD0?style=for-the-badge&labelColor=FFF0F5&logo=googlechrome&logoColor=D63384" height="34" alt="Portfólio" /></a>
+  <a href="https://www.linkedin.com/in/maria-eduarda-santos-silva-868298300" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-1A1420?style=for-the-badge&logo=linkedin&logoColor=F48FB1" height="30" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:madusantoss1510@gmail.com" title="E-mail"><img src="https://img.shields.io/badge/E--mail-1A1420?style=for-the-badge&logo=gmail&logoColor=F48FB1" height="30" alt="E-mail" /></a>&nbsp;
+  <a href="https://portfolio-madusantoss.vercel.app/" title="Portfólio"><img src="https://img.shields.io/badge/Portf%C3%B3lio-1A1420?style=for-the-badge&logo=googlechrome&logoColor=F48FB1" height="30" alt="Portfólio" /></a>
 </p>
 
-<div align="center">
-  <img src="./footer.svg" width="100%" alt="" />
-</div>
+<img src="./footer.svg" width="100%" alt="" />

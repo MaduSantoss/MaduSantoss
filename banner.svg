@@ -1,46 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-label="Maria Eduarda — Back-End Developer, C# e .NET">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-label="Maria Eduarda — Back-End Developer, C# e .NET">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#FFE4EC"/>
-      <stop offset="55%" stop-color="#F8BBD0"/>
-      <stop offset="100%" stop-color="#F48FB1"/>
+      <stop offset="0%" stop-color="#1C1520"/>
+      <stop offset="100%" stop-color="#140F17"/>
     </linearGradient>
-    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.55"/>
-      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.15"/>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#F48FB1" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#F48FB1"/>
+      <stop offset="100%" stop-color="#F48FB1" stop-opacity="0"/>
     </linearGradient>
-    <filter id="sh" x="-10%" y="-30%" width="120%" height="160%"><feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#C2185B" flood-opacity="0.35"/></filter>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#F48FB1" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#F48FB1" stop-opacity="0"/>
+    </radialGradient>
     <style>
-      .title { font: 700 54px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #FFFFFF; }
-      .sub   { font: 600 22px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #FFFFFF; letter-spacing: 1px; }
-      .w1 { animation: drift 9s ease-in-out infinite alternate; }
-      .w2 { animation: drift 13s ease-in-out infinite alternate-reverse; }
-      .fade { animation: fade 1.6s ease-out both; }
-      .spark { animation: twinkle 3s ease-in-out infinite; }
-      @keyframes drift { from { transform: translateX(0); } to { transform: translateX(-60px); } }
-      @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
-      @keyframes twinkle { 0%,100% { opacity: .25; } 50% { opacity: .9; } }
+      .name { font: 600 46px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #F8C8D8; letter-spacing: 1px; }
+      .role { font: 400 16px 'Consolas', 'Fira Code', 'Courier New', monospace; fill: #B9A3AE; letter-spacing: 3px; }
+      .in { animation: in 1.4s ease-out both; }
+      .dot { animation: blink 4s ease-in-out infinite; }
+      @keyframes in { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+      @keyframes blink { 0%,100% { opacity: .2; } 50% { opacity: .8; } }
     </style>
   </defs>
 
-  <rect width="1200" height="240" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="200" rx="16" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="1199" height="199" rx="16" fill="none" stroke="#3A2833"/>
+  <ellipse cx="600" cy="95" rx="360" ry="90" fill="url(#glow)"/>
 
-  <!-- ondas -->
-  <path class="w1" d="M0 175 C 150 140, 300 210, 450 175 S 750 140, 900 175 S 1150 210, 1300 175 L1300 240 L0 240 Z" fill="url(#wave)"/>
-  <path class="w2" d="M0 200 C 200 170, 350 230, 550 200 S 850 170, 1050 200 S 1250 230, 1300 200 L1300 240 L0 240 Z" fill="#FFFFFF" fill-opacity="0.35"/>
-
-  <!-- brilhos -->
-  <g fill="#FFFFFF">
-    <circle class="spark" cx="140" cy="60" r="3"/>
-    <circle class="spark" cx="1050" cy="50" r="4" style="animation-delay:1s"/>
-    <circle class="spark" cx="960" cy="120" r="2.5" style="animation-delay:2s"/>
-    <circle class="spark" cx="240" cy="130" r="2.5" style="animation-delay:1.5s"/>
-    <g class="spark" style="animation-delay:0.5s" transform="translate(1105 130)"><circle cx="7.0" cy="0.0" r="5.6"/><circle cx="2.2" cy="6.7" r="5.6"/><circle cx="-5.7" cy="4.1" r="5.6"/><circle cx="-5.7" cy="-4.1" r="5.6"/><circle cx="2.2" cy="-6.7" r="5.6"/><circle r="4.2" fill="#F48FB1"/></g>
-    <g class="spark" style="animation-delay:2.2s" transform="translate(85 140)"><circle cx="6.0" cy="0.0" r="4.8"/><circle cx="1.9" cy="5.7" r="4.8"/><circle cx="-4.9" cy="3.5" r="4.8"/><circle cx="-4.9" cy="-3.5" r="4.8"/><circle cx="1.9" cy="-5.7" r="4.8"/><circle r="3.6" fill="#F48FB1"/></g>
+  <g fill="#F48FB1">
+    <circle class="dot" cx="180" cy="55" r="2"/>
+    <circle class="dot" cx="1030" cy="60" r="2.5" style="animation-delay:1.3s"/>
+    <circle class="dot" cx="1090" cy="140" r="1.8" style="animation-delay:2.4s"/>
+    <circle class="dot" cx="110" cy="135" r="1.8" style="animation-delay:.7s"/>
   </g>
 
-  <g class="fade" filter="url(#sh)">
-    <text class="title" x="600" y="105" text-anchor="middle">Maria Eduarda</text>
-    <text class="sub" x="600" y="145" text-anchor="middle">Back-End Developer  •  C# &amp; .NET</text>
+  <g class="in">
+    <text class="name" x="600" y="98" text-anchor="middle">Maria Eduarda</text>
+    <rect x="450" y="118" width="300" height="1.5" fill="url(#line)"/>
+    <text class="role" x="600" y="150" text-anchor="middle">BACK-END DEVELOPER · C# · .NET</text>
   </g>
 </svg>
