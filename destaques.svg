@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-label="Destaques: Liderança Técnica, Impacto Real (redução de 40%), Engenharia">
+  <defs>
+    <style>
+      .card { fill: #1A1420; stroke: #3A2833; }
+      .bar  { fill: #F48FB1; }
+      .tag  { font: 500 13px 'Consolas', 'Fira Code', 'Courier New', monospace; fill: #F48FB1; letter-spacing: 2px; }
+      .big  { font: 600 22px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #F8C8D8; }
+      .txt  { font: 400 15px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #B9A3AE; }
+    </style>
+  </defs>
+
+  <!-- 1 -->
+  <rect class="card" x="0.5" y="0.5" width="379" height="189" rx="14"/>
+  <rect class="bar" x="28" y="30" width="28" height="3" rx="1.5"/>
+  <text class="tag" x="28" y="62">01 · LIDERANÇA</text>
+  <text class="big" x="28" y="98">Front-End Team Lead</text>
+  <text class="txt" x="28" y="130">Times com React e TypeScript,</text>
+  <text class="txt" x="28" y="154">mentorias e Code Reviews.</text>
+
+  <!-- 2 -->
+  <rect class="card" x="410.5" y="0.5" width="379" height="189" rx="14"/>
+  <rect class="bar" x="438" y="30" width="28" height="3" rx="1.5"/>
+  <text class="tag" x="438" y="62">02 · IMPACTO</text>
+  <text class="big" x="438" y="98">−40% no processamento</text>
+  <text class="txt" x="438" y="130">Otimização de sistemas e processos</text>
+  <text class="txt" x="438" y="154">em fluxos operacionais.</text>
+
+  <!-- 3 -->
+  <rect class="card" x="820.5" y="0.5" width="379" height="189" rx="14"/>
+  <rect class="bar" x="848" y="30" width="28" height="3" rx="1.5"/>
+  <text class="tag" x="848" y="62">03 · ENGENHARIA</text>
+  <text class="big" x="848" y="98">Código que dura</text>
+  <text class="txt" x="848" y="130">Clean Code, SOLID, Design Patterns</text>
+  <text class="txt" x="848" y="154">e Arquitetura de APIs.</text>
+</svg>
