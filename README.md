@@ -1,56 +1,100 @@
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=4000&pause=1000&color=8A2BE2&center=false&vCenter=true&width=500&lines=Ol%C3%A1%2C+sou+Maria+Eduarda" alt="Typing SVG" />
-</a>
+<!--
+  GitHub Profile — Maria Eduarda (MaduSantoss)
+  Tema: Soft Pink ✿ | rosa claro + rosé
+-->
 
-Desenvolvedora de Software com foco em Back-End, atualmente atuando com **C#** e **.NET** na construção de APIs, integrações e soluções orientadas a regras de negócio. 
+<div align="center">
 
-Minha trajetória multidisciplinar passa por Infraestrutura, Back-End, Front-End e Liderança Técnica. Essa vivência me construiu uma visão ampla de todo o ciclo de desenvolvimento, desde a concepção arquitetural até performance, observabilidade e cultura colaborativa.
+  <img src="./banner.svg" width="100%" alt="Banner rosa: Maria Eduarda — Back-End Developer, C# e .NET" />
 
-💡 **Destaques:**
-- **Liderança Técnica:** Atuei como Front-End Team Lead, conduzindo equipes com React/TypeScript, mentorias e Code Reviews.
-- **Impacto Real:** Participei da otimização de sistemas e processos que geraram a **redução de 40%** no tempo de processamento de fluxos operacionais.
-- **Engenharia:** Foco em Clean Code, SOLID, Design Patterns e Arquitetura de APIs.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=900&color=E75480&center=true&vCenter=true&width=560&lines=Ol%C3%A1%2C+sou+a+Maria+Eduarda+%E2%9C%BF;APIs+%2B+integra%C3%A7%C3%B5es+com+C%23+e+.NET;Clean+Code+%E2%80%A2+SOLID+%E2%80%A2+Design+Patterns;Rumo+a+arquitetura%2C+cloud+e+escala+%E2%98%81%EF%B8%8F" alt="Olá, sou a Maria Eduarda" />
+  </a>
 
-Meu objetivo é continuar evoluindo na Engenharia de Software, aprofundando meus conhecimentos em arquitetura, cloud e construção de sistemas escaláveis, resilientes e sustentáveis.
+  <p><samp>back-end · arquitetura de APIs · performance · observabilidade · cultura colaborativa</samp></p>
 
-## 🔗 Conecte-se Comigo
-<div style="display: inline-block">
-    <a href="https://www.linkedin.com/in/maria-eduarda-santos-silva-868298300" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=violet" target="_blank"></a>
-    <a href="mailto:madusantoss1510@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=violet" target="_blank"></a>
-    <a href="https://portfolio-madusantoss.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=google-chrome&logoColor=violet" target="_blank"></a>
 </div>
 
-## 💻 Tecnologias e Ferramentas
+---
 
-### ⚙️ Back-End
-<div style="display: inline-block">
-    <img alt="C#" height="30" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
-    <img alt=".NET" height="30" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-    <img alt="PHP" height="30" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
-    <img alt="Laravel" height="30" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
-    <img alt="Python" height="30" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+## ✿ Sobre mim
+
+Sou **Desenvolvedora de Software** com foco em **Back-End**, atuando com **C#** e **.NET** na construção de APIs, integrações e soluções orientadas a regras de negócio.
+
+Minha trajetória passa por **Infraestrutura, Back-End, Front-End e Liderança Técnica** — e essa vivência me deu uma visão ampla de todo o ciclo de desenvolvimento: da concepção arquitetural até performance, observabilidade e cultura de time.
+
+Meu próximo passo é me aprofundar em **arquitetura, cloud e sistemas escaláveis, resilientes e sustentáveis**.
+
+## 🌸 Destaques
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>👩‍💻 Liderança Técnica</h4>
+      Front-End Team Lead com React/TypeScript, conduzindo mentorias e Code Reviews.
+    </td>
+    <td width="33%" valign="top">
+      <h4>📉 Impacto Real</h4>
+      Otimização de sistemas e processos com <b>redução de 40%</b> no tempo de processamento de fluxos operacionais.
+    </td>
+    <td width="33%" valign="top">
+      <h4>🧩 Engenharia</h4>
+      Clean Code, SOLID, Design Patterns e Arquitetura de APIs.
+    </td>
+  </tr>
+</table>
+
+## 💗 Tecnologias
+
+**⚙️ Back-End**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,py&theme=light" alt="C#, .NET, PHP, Laravel e Python" />
+</p>
+
+**🗄️ Bancos de Dados**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=light" alt="PostgreSQL e MySQL" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/SQL_Server-FFF0F5?style=for-the-badge&logo=microsoftsqlserver&logoColor=D63384" height="46" alt="SQL Server" />
+</p>
+
+**☁️ DevOps & Cloud**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github&theme=light" alt="Docker, AWS, Git e GitHub" />
+</p>
+
+**🎨 Front-End**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js&theme=light" alt="React, Next.js, TypeScript e JavaScript" />
+</p>
+
+## 📊 Atividade
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MaduSantoss&show_icons=true&include_all_commits=true&hide_border=false&bg_color=FFF5F8&title_color=D63384&text_color=6B4A57&icon_color=F06292&border_color=F8BBD0&border_radius=12" height="180" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaduSantoss&layout=compact&langs_count=8&hide_border=false&bg_color=FFF5F8&title_color=D63384&text_color=6B4A57&border_color=F8BBD0&border_radius=12" height="180" alt="Linguagens mais usadas" />
 </div>
 
-### 🗄️ Bancos de Dados
-<div style="display: inline-block">
-    <img alt="PostgreSQL" height="30" src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img alt="MySQL" height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <img alt="SQL Server" height="30" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MaduSantoss&background=FFF5F8&border=F8BBD0&ring=F06292&fire=D63384&currStreakNum=6B4A57&sideNums=6B4A57&currStreakLabel=D63384&sideLabels=D63384&dates=A0788A&stroke=F8BBD0" alt="GitHub Streak" />
 </div>
 
-### ☁️ DevOps & Cloud
-<div style="display: inline-block">
-    <img alt="Docker" height="30" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-    <img alt="AWS" height="30" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-    <img alt="Git" height="30" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MaduSantoss/MaduSantoss/output/github-snake-pink.svg" width="100%" alt="Cobrinha rosa comendo as contribuições" />
 </div>
 
-### 🎨 Front-End
-<div style="display: inline-block">
-    <img alt="React" height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img alt="Next.js" height="30" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
-    <img alt="TypeScript" height="30" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-    <img alt="JavaScript" height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</div>
+## 💌 Vamos conversar?
 
-![snake gif](https://github.com/MaduSantoss/MaduSantoss/blob/output/github-snake-dark.svg)
+<p align="center">
+  <a href="https://www.linkedin.com/in/maria-eduarda-santos-silva-868298300" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-Conectar-F8BBD0?style=for-the-badge&labelColor=FFF0F5&logo=linkedin&logoColor=D63384" height="34" alt="LinkedIn" /></a>&emsp;
+  <a href="mailto:madusantoss1510@gmail.com" title="E-mail"><img src="https://img.shields.io/badge/E--mail-Enviar-F8BBD0?style=for-the-badge&labelColor=FFF0F5&logo=gmail&logoColor=D63384" height="34" alt="E-mail" /></a>&emsp;
+  <a href="https://portfolio-madusantoss.vercel.app/" title="Portfólio"><img src="https://img.shields.io/badge/Portf%C3%B3lio-Visitar-F8BBD0?style=for-the-badge&labelColor=FFF0F5&logo=googlechrome&logoColor=D63384" height="34" alt="Portfólio" /></a>
+</p>
+
+<div align="center">
+  <img src="./footer.svg" width="100%" alt="" />
+</div>
