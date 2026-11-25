@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-label="Maria Eduarda — Back-End Developer, C# e .NET">
+<defs>
+ <clipPath id="c"><rect width="1200" height="210" rx="16"/></clipPath>
+ <radialGradient id="g1" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#E04FB4" stop-opacity="0.55"/><stop offset="100%" stop-color="#E04FB4" stop-opacity="0"/></radialGradient>
+ <radialGradient id="g2" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#9B2C8A" stop-opacity="0.5"/><stop offset="100%" stop-color="#9B2C8A" stop-opacity="0"/></radialGradient>
+ <style>
+  .name{font:600 50px 'Segoe UI','Helvetica Neue',Arial,sans-serif;fill:#F7C6E8;letter-spacing:1px}
+  .role{font:400 16px 'Consolas','Fira Code','Courier New',monospace;fill:#BFA6B8;letter-spacing:4px}
+  .b1{animation:f1 12s ease-in-out infinite alternate} .b2{animation:f2 14s ease-in-out infinite alternate}
+  .in{animation:in 1.4s ease-out both}
+  @keyframes f1{from{transform:translate(0,0)}to{transform:translate(80px,20px)}}
+  @keyframes f2{from{transform:translate(0,0)}to{transform:translate(-90px,-15px)}}
+  @keyframes in{from{opacity:0}to{opacity:1}}
+ </style>
+</defs>
+<g clip-path="url(#c)">
+ <rect width="1200" height="210" fill="#0E0A10"/>
+ <ellipse class="b1" cx="180" cy="20" rx="380" ry="160" fill="url(#g1)"/>
+ <ellipse class="b2" cx="1040" cy="200" rx="420" ry="170" fill="url(#g2)"/>
+</g>
+<rect x="0.5" y="0.5" width="1199" height="209" rx="16" fill="none" stroke="#3A1C34"/>
+<g class="in">
+ <text class="name" x="600" y="110" text-anchor="middle">Maria Eduarda</text>
+ <text class="role" x="600" y="150" text-anchor="middle">BACK-END DEVELOPER · C# · .NET</text>
+</g>
+</svg>

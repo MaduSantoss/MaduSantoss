@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-label="Destaques: Team Lead; −40% no tempo de processamento; Clean Code, SOLID e Arquitetura de APIs">
+<defs>
+ <linearGradient id="h" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#E04FB4" stop-opacity="0"/><stop offset="50%" stop-color="#E04FB4" stop-opacity="0.8"/><stop offset="100%" stop-color="#E04FB4" stop-opacity="0"/></linearGradient>
+ <linearGradient id="v" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#E04FB4" stop-opacity="0"/><stop offset="50%" stop-color="#E04FB4" stop-opacity="0.6"/><stop offset="100%" stop-color="#E04FB4" stop-opacity="0"/></linearGradient>
+ <style>.l{font:500 13px 'Consolas','Fira Code','Courier New',monospace;fill:#E04FB4;letter-spacing:4px} .n{font:700 46px 'Segoe UI','Helvetica Neue',Arial,sans-serif;fill:#F7C6E8} .x{font:400 16px 'Segoe UI','Helvetica Neue',Arial,sans-serif;fill:#BFA6B8}</style>
+</defs>
+<rect x="0" y="0" width="1200" height="1" fill="url(#h)"/><rect x="0" y="199" width="1200" height="1" fill="url(#h)"/>
+<rect x="400" y="30" width="1" height="140" fill="url(#v)"/><rect x="800" y="30" width="1" height="140" fill="url(#v)"/>
+<text class="l" x="200" y="50" text-anchor="middle">LIDERANÇA</text>
+<text class="n" x="200" y="108" text-anchor="middle">Team Lead</text>
+<text class="x" x="200" y="142" text-anchor="middle">Front-End com React e TypeScript,</text>
+<text class="x" x="200" y="164" text-anchor="middle">mentorias e Code Reviews.</text>
+<text class="l" x="600" y="50" text-anchor="middle">IMPACTO</text>
+<text class="n" x="600" y="108" text-anchor="middle">−40%</text>
+<text class="x" x="600" y="142" text-anchor="middle">no tempo de processamento de</text>
+<text class="x" x="600" y="164" text-anchor="middle">fluxos operacionais.</text>
+<text class="l" x="1000" y="50" text-anchor="middle">ENGENHARIA</text>
+<text class="n" x="1000" y="108" text-anchor="middle">Clean Code</text>
+<text class="x" x="1000" y="142" text-anchor="middle">SOLID, Design Patterns e</text>
+<text class="x" x="1000" y="164" text-anchor="middle">Arquitetura de APIs.</text>
+</svg>

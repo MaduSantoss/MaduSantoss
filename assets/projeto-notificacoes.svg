@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="290" viewBox="0 0 360 290" role="img" aria-label="sistema-notificacoes">
+<style>.p{font:500 14px 'Consolas','Fira Code','Courier New',monospace;fill:#BFA6B8} .a{font:500 12px 'Consolas','Fira Code','Courier New',monospace;fill:#E04FB4;letter-spacing:3px} .t{font:600 25px 'Segoe UI','Helvetica Neue',Arial,sans-serif;fill:#F7C6E8} .x{font:400 16.5px 'Segoe UI','Helvetica Neue',Arial,sans-serif;fill:#BFA6B8} .c{font:500 13.5px 'Consolas','Fira Code','Courier New',monospace;fill:#F7C6E8} .lk{font:500 18px 'Segoe UI','Helvetica Neue',Arial,sans-serif;fill:#E04FB4}</style>
+<rect x="0.5" y="0.5" width="359" height="289" rx="14" fill="#150D16" stroke="#3A1C34"/>
+<path d="M0.5 44 V14.5 A14 14 0 0 1 14.5 0.5 H345.5 A14 14 0 0 1 359.5 14.5 V44 Z" fill="#1E1220"/>
+<rect x="0.5" y="44" width="359" height="1" fill="#3A1C34"/>
+<circle cx="24" cy="22" r="6" fill="#E04FB4"/><circle cx="44" cy="22" r="6" fill="#9B2C8A"/><circle cx="64" cy="22" r="6" fill="#4A2442"/>
+<text class="p" x="200" y="27" text-anchor="middle">~/sistema-notificacoes</text>
+<text class="a" x="26" y="80">MENSAGERIA</text>
+<text class="t" x="26" y="114">sistema-notificacoes</text>
+<text class="x" x="26" y="150">API REST + worker de e-mails</text>
+<text class="x" x="26" y="175">com retry, dead-letter queue</text>
+<text class="x" x="26" y="200">e idempotência.</text>
+<rect x="26" y="234" width="81" height="28" rx="14" fill="#241424" stroke="#4A2442"/><text class="c" x="67" y="253" text-anchor="middle">.NET 10</text><rect x="115" y="234" width="90" height="28" rx="14" fill="#241424" stroke="#4A2442"/><text class="c" x="160" y="253" text-anchor="middle">RabbitMQ</text><rect x="213" y="234" width="73" height="28" rx="14" fill="#241424" stroke="#4A2442"/><text class="c" x="250" y="253" text-anchor="middle">Docker</text>
+<text class="lk" x="334" y="253" text-anchor="end">→</text>
+</svg>
