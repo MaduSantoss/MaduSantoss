@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="270" viewBox="0 0 360 270" role="img" aria-label="neo-bank">
+<style>
+ .tag{font:500 13px 'Consolas','Fira Code','Courier New',monospace;fill:#E04FB4;letter-spacing:2px}
+ .t{font:600 24px 'Segoe UI','Helvetica Neue',Arial,sans-serif;fill:#F7C6E8}
+ .x{font:400 16.5px 'Segoe UI','Helvetica Neue',Arial,sans-serif;fill:#BFA6B8}
+ .c{font:500 13.5px 'Consolas','Fira Code','Courier New',monospace;fill:#F7C6E8}
+ .lk{font:500 15px 'Segoe UI','Helvetica Neue',Arial,sans-serif;fill:#E04FB4}
+</style>
+<rect x="0.5" y="0.5" width="359" height="269" rx="14" fill="#160E17" stroke="#3A1C34"/><rect x="26" y="28" width="28" height="3" rx="1.5" fill="#E04FB4"/>
+<text class="tag" x="26" y="62">03 · FINTECH</text>
+<text class="t" x="26" y="98">neo-bank</text>
+<text class="x" x="26" y="134">Sistema bancário com login,</text>
+<text class="x" x="26" y="159">depósitos, saques, extrato</text>
+<text class="x" x="26" y="184">e painel admin.</text>
+<rect x="26" y="214" width="73" height="28" rx="14" fill="#241424" stroke="#4A2442"/><text class="c" x="63" y="233" text-anchor="middle">Python</text><rect x="107" y="214" width="65" height="28" rx="14" fill="#241424" stroke="#4A2442"/><text class="c" x="140" y="233" text-anchor="middle">Flask</text><rect x="180" y="214" width="73" height="28" rx="14" fill="#241424" stroke="#4A2442"/><text class="c" x="217" y="233" text-anchor="middle">SQLite</text>
+<text class="lk" x="334" y="233" text-anchor="end">→</text>
+</svg>
